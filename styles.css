@@ -6798,7 +6798,7 @@ html #permissions-modal-wrapper .perm-name {
 
 /* ----		18.9	CHANNELTABS						---- */
 
-html .channelTabs-tabContainer,
+/* html .channelTabs-tabContainer,
 html .channelTabs-favContainer {
 	display: flex;
 	align-items: center;
@@ -6938,7 +6938,7 @@ html .channelTabs-newTab {
 html .channelTabs-newTab:hover {
 	background: rgb(var(--accentcolor));
 	color: var(--interactive-active);
-}
+} */
 
 /* ----		18.10	TYPINGINDICATOR					---- */
 
@@ -7043,7 +7043,7 @@ html .typingindicator-folder {
 /* ~~~~		19.		UPDATENOTICE					~~~~ */
 
 html:only-child > head + body > div#app-mount.appMount-2yBXZl > div.app-3xd6d0 > div.app-2CXKsg::before {
-	content: "Your Version of   BasicBackground   by DevilBro is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
+	content: "Your Version of   BasicBackground   by ELRandomMan is outdated. Please download the newest Version:	https://mwittrien.github.io/downloader/?theme=BasicBackground" !important;
 	display: var(--version1_0_5, block) !important;
 	background-color: #4a90e2 !important;
 	box-shadow: 0 1px 5px 0 rgba(var(--transparencycolor), .3) !important;
