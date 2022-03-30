@@ -6813,7 +6813,6 @@ html .channelTabs-tabContainer {
 	box-shadow: 0 1px 0 rgba(var(--transparencycolor), .2), 0 1.5px 0 rgba(var(--transparencycolor), .05), 0 2px 0 rgba(var(--transparencycolor), .05);
 	padding-top: 6px;
 }
-/*
 html .channelTabs-favContainer {
 	background: rgba(var(--transparencycolor), calc(var(--guildchanneltransparency) * 2));
 	padding-top: 3px;
@@ -6939,7 +6938,7 @@ html .channelTabs-newTab {
 html .channelTabs-newTab:hover {
 	background: rgb(var(--accentcolor));
 	color: var(--interactive-active);
-} */
+}
 
 /* ----		18.10	TYPINGINDICATOR					---- */
 
