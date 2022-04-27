@@ -6803,7 +6803,7 @@ html .channelTabs-favContainer {
 	display: flex;
 	align-items: center;
 	flex-wrap: wrap;
-	min-height: 20px;
+	min-height: 24px;
 	height: unset;
 	overflow: hidden;
 	transition: height 0.3s linear;
@@ -6838,14 +6838,14 @@ html #channelTabs-settingsMenu:hover rect[fill] {
 	fill: white;
 }
 html .channelTabs-tabContainer {
-	margin-right: 40px;
+	margin-right: 50px;
 }
 html .channelTabs-tab,
 html .channelTabs-fav {
 	display: flex;
 	align-items: center;
 	color: var(--interactive-normal);
-	height: 20px;
+	height: 24px;
 	margin: 0 4px;
 	padding: 0 4px;
 	cursor: pointer;
@@ -6896,7 +6896,7 @@ html .channelTabs-favName {
 	position: static !important;
 	margin: 0 !important;
 	width: unset !important;
-	font-size: 12px;
+	font-size: 16px;
 	line-height: 20px;
 	font-weight: 500;
 	overflow: hidden;
@@ -6913,8 +6913,8 @@ html .channelTabs-tab.channelTabs-selected .channelTabs-closeTab {
 	background: rgba(var(--transparencycolor), .3);
 	color: var(--interactive-hover);
 	border-radius: 50%;
-	width: 14px;
-	height: 14px;
+	width: 16px;
+	height: 16px;
 	min-width: 14px;
 	min-height: 14px;
 	font-size: 14px;
@@ -6932,8 +6932,8 @@ html .channelTabs-newTab {
 	background: rgba(var(--transparencycolor), .3);
 	color: var(--interactive-hover);
 	padding: 0;
-	width: 18px;
-	height: 18px;
+	width: 22px;
+	height: 22px;
 }
 html .channelTabs-newTab:hover {
 	background: rgb(var(--accentcolor));
