@@ -6798,7 +6798,7 @@ html #permissions-modal-wrapper .perm-name {
 
 /* ----		18.9	CHANNELTABS						---- */
 
-html .channelTabs-tabContainer,
+/* html .channelTabs-tabContainer,
 html .channelTabs-favContainer {
 	display: flex;
 	align-items: center;
@@ -6938,7 +6938,7 @@ html .channelTabs-newTab {
 html .channelTabs-newTab:hover {
 	background: rgb(var(--accentcolor));
 	color: var(--interactive-active);
-}
+} */
 
 /* ----		18.10	TYPINGINDICATOR					---- */
 
